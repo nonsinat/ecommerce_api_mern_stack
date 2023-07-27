@@ -175,6 +175,7 @@ const updateProduct = async (req,res)=>{
 }
 
 
+
 const productFilter = async (req,res) => {
     const {checked,radio} = req.body;
 }
